@@ -30,4 +30,4 @@ CPU 2 loaded at 0.000243003%
 CPU 3 loaded at 49.139439639%
 ```
 
-We modify the objective function to minimize the amount of not served load (P2e).
+We modify the objective function to minimize the amount of not served load (P2e.mod).

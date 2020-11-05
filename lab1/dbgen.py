@@ -1,3 +1,6 @@
+# Script to generate CPU loads randomly, for simulation purposes
+# m@rcel.xyz
+
 import random
 
 nTasks = 50
