@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<description>Lab 1 - Intro</description>
+	<configs>
+		<config default="true" name="Configuration1" category="opl">
+			<ref name="volsay1.mod" type="model">
+			</ref>
+		</config>
+		<config default="false" name="Configuration2" category="opl">
+			<ref name="volsay2.mod" type="model">
+			</ref>
+		</config>
+		<config default="false" name="Configuration3" category="opl">
+			<ref name="volsay3.mod" type="model">
+			</ref>
+			<ref name="volsay3b.dat" type="data">
+			</ref>
+		</config>
+		<config default="false" name="Configuration4" category="opl">
+			<ref name="volsay4.mod" type="model">
+			</ref>
+			<ref name="volsay3a.dat" type="data">
+			</ref>
+		</config>
+		<config default="false" name="Configuration5" category="opl">
+			<ref name="volsay5.mod" type="model">
+			</ref>
+		</config>
+		<config default="false" name="Configuration6" category="opl">
+			<ref name="volsay6.mod" type="model">
+			</ref>
+		</config>
+	</configs>
+	
+</project>

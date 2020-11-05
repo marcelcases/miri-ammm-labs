@@ -1,2 +1,12 @@
-.oplproject
-.project
+#ignore all kind of files
+*.*
+
+#except for file types throughout the repo
+!.gitignore
+!*.py
+!*.md
+
+#and except for directories
+!lab0/opl/**
+!lab1/opl/**
+!lab2/opl/**
