@@ -1,3 +1,5 @@
+// to run on terminal, >> oplrun volsay1.mod
+
 dvar float+ Gas;
 dvar float+ Chloride;
 
