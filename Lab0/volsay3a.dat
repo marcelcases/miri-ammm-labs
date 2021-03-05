@@ -1,0 +1,6 @@
+nProducts   = 2;
+nComponents = 3;
+
+Demand = [ [1 3 0] [1 4 1] ];
+Profit = [40 50];
+Stock = [50 180 40];
