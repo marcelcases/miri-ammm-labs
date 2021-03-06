@@ -1,3 +1,4 @@
 *.pdf
 .oplproject
 .project
+.idea
