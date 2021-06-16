@@ -5,3 +5,11 @@
 Lab2/example/*
 Python*/*
 *.zip
+*.tex
+*.aux
+*.log
+*.gz
+*.xlsx
+
+!Lab4/report/ammm-lab4-report.pdf
+!Lab5/report/ammm-lab5-report.pdf
