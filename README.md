@@ -1,7 +1,16 @@
-# MIRI-AMMM
-Assignments of Algorithmic Methods for Mathematical Models  
+# Algorithmic Methods for Mathematical Models laboratory sessions
+
+Assignments of Algorithmic Methods for Mathematical Models
+
+## About
+
+**Author**  
+Marcel Cases i Freixenet &lt;marcel.cases@estudiantat.upc.edu&gt;
+
+**Course**  
+Algorithmic Methods for Mathematical Models (AMMM-MIRI)  
+FIB - Universitat Politècnica de Catalunya. BarcelonaTech  
 Spring 2021  
-Marcel Cases i Freixenet  
 
 ## Sessions
 
